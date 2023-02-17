@@ -43,8 +43,6 @@ background: linear-gradient(90deg, rgba(0,212,255,.5) 25%, rgba(0,0,0,1) 75%);
     width: 250px;
     height: 200px;
     object-fit: cover;
-    transition: all 0.5s ease-in-out; 
-    
 }
 
 .images:hover{
